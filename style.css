@@ -1,5 +1,7 @@
 html{
     background-image: url(./EasterBunny.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p{
